@@ -1,0 +1,377 @@
+<!doctype html>
+<!--[if IE 8]>    <html class="lt-ie10 lt-ie9 no-js" lang="vi"> <![endif]-->
+<!--[if IE 9]>    <html class="lt-ie10 no-js" lang="vi"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="vi">
+<!--<![endif]-->
+
+<head>
+    <base href="http://ntanhdao.webnode.vn/">
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="generator" content="Webnode, see http://www.webnode.com/">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="canonical" href="http://ntanhdao.webnode.vn/">
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-797705-6'],['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();var pageTrackerAllTrackEvent=function(category,action,opt_label,opt_value){_gaq.push(['_trackEvent',category,action,opt_label,opt_value]);};</script>
+  <link rel="alternate" type="application/rss+xml" href="http://ntanhdao.webnode.vn/rss/all.xml" title="">
+<!--[if lte IE 9]><style type="text/css">.cke_skin_webnode iframe {vertical-align: baseline !important;}</style><![endif]-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ntanhdao</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="http://static-cdn2.webnode.com/_system/skins/v7/50001413/css/style.css" />
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+
+        var wnTplSettings = {};
+
+        wnTplSettings.photogallerySlideshowStop  = 'Tạm dừng';
+        wnTplSettings.photogallerySlideshowStart = 'Slideshow';
+        wnTplSettings.faqShowAnswer = 'Hiển thị câu trả lời';
+        wnTplSettings.faqHideAnswer = 'Ẩn câu trả lời';
+        wnTplSettings.menuLabel = 'Menu';
+
+        /* ]]> */
+    </script>
+    <script type="text/javascript" language="javascript" src="http://static-cdn3.webnode.com/_system/skins/v7/50001413/js/main.js"></script>
+
+
+				<script type="text/javascript">
+				/* <![CDATA[ */
+					
+					if (typeof(RS_CFG) == 'undefined') RS_CFG = new Array();
+					RS_CFG['staticServers'] = new Array('http://static-cdn1.webnode.com/', 'http://static-cdn2.webnode.com/', 'http://static-cdn3.webnode.com/', 'http://static-cdn4.webnode.com/');
+					RS_CFG['filesPath'] = 'http://files.ntanhdao.webnode.vn/';
+					RS_CFG['lbClose'] = 'Đóng';
+					RS_CFG['skin'] = 'default';
+					if (!RS_CFG['labels']) RS_CFG['labels'] = new Array();
+					RS_CFG['systemName'] = 'Webnode';
+						
+					RS_CFG['responsiveLayout'] = 1;
+					RS_CFG['mobileDevice'] = 0;
+					RS_CFG['labels']['copyPasteSource'] = 'Xem thêm thông tin:';
+					
+				/* ]]> */
+				</script><style type="text/css">/* <![CDATA[ */#lc4kebd3 {position: absolute;font-size: 13px !important;font-family: "Arial", helvetica, sans-serif !important;white-space: nowrap;z-index: 2147483647;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-o-user-select: none;user-select: none;}#h0p8lcp18gaj {position: relative;top: -14px;}* html #h0p8lcp18gaj { top: -11px; }#h0p8lcp18gaj a { text-decoration: none !important; }#h0p8lcp18gaj a:hover { text-decoration: underline !important; }#dl417cc7 {z-index: 2147483647;display: inline-block !important;font-size: 16px;padding: 7px 59px 9px 59px;background: transparent url(http://static-cdn1.webnode.com/img/footer/footerButtonWebnodeHover.png) top left no-repeat;height: 18px;cursor: pointer;}* html #dl417cc7 { height: 36px; }#dl417cc7:hover { background: url(http://static-cdn1.webnode.com/img/footer/footerButtonWebnode.png) top left no-repeat; }#c841dbc72 { display: none; }#q3uldt21d7if8 {z-index: 3000;text-align: left !important;position: absolute;height: 88px;font-size: 13px !important;color: #ffffff !important;font-family: "Arial", helvetica, sans-serif !important;overflow: hidden;cursor: pointer;}#g6i196n33efb {color: #36322D !important;text-decoration: none !important;font-weight: bold !important;float: right;height: 31px;position: absolute;top: 19px;right: 15px;cursor: pointer;}#ic0c3td4e9pm5 { float: right; padding-right: 27px; display: block; line-height: 31px; height: 31px; background: url(http://static-cdn1.webnode.com/img/footer/footerButton.png) top right no-repeat; white-space: nowrap; }#hfieg57745e018c0 { position: relative; left: 1px; float: left; display: block; width: 15px; height: 31px; background: url(http://static-cdn1.webnode.com/img/footer/footerButton.png) top left no-repeat; }#g6i196n33efb:hover { color: #36322D !important; text-decoration: none !important; }#g6i196n33efb:hover #ic0c3td4e9pm5 { background: url(http://static-cdn1.webnode.com/img/footer/footerButtonHover.png) top right no-repeat; }#g6i196n33efb:hover #hfieg57745e018c0 { background: url(http://static-cdn1.webnode.com/img/footer/footerButtonHover.png) top left no-repeat; }#aa8bic1314bj6k {padding-right: 11px;padding-right: 11px;float: right;height: 60px;padding-top: 18px;background: url(http://static-cdn1.webnode.com/img/footer/footerBubble.png) top right no-repeat;}#hx73h21521ae {float: left;width: 18px;height: 78px;background: url(http://static-cdn1.webnode.com/img/footer/footerBubble.png) top left no-repeat;}* html #dl417cc7 { filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static-cdn1.webnode.com/img/footer/footerButtonWebnode.png'); background: transparent; }* html #dl417cc7:hover { filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static-cdn1.webnode.com/img/footer/footerButtonWebnodeHover.png'); background: transparent; }* html #aa8bic1314bj6k { height: 78px; background-image: url(http://static-cdn1.webnode.com/img/footer/footerBubbleIE6.png);  }* html #hx73h21521ae { background-image: url(http://static-cdn1.webnode.com/img/footer/footerBubbleIE6.png);  }* html #ic0c3td4e9pm5 { background-image: url(http://static-cdn1.webnode.com/img/footer/footerButtonIE6.png); }* html #hfieg57745e018c0 { background-image: url(http://static-cdn1.webnode.com/img/footer/footerButtonIE6.png); }* html #g6i196n33efb:hover #rbcGrSigTryButtonRight { background-image: url(http://static-cdn1.webnode.com/img/footer/footerButtonHoverIE6.png);  }* html #g6i196n33efb:hover #rbcGrSigTryButtonLeft { background-image: url(http://static-cdn1.webnode.com/img/footer/footerButtonHoverIE6.png);  }/* ]]> */</style><script type="text/javascript" src="http://static-cdn2.webnode.com/_system/client/js/compressed/frontend.package.1-2-164.js"></script><style type="text/css"></style></head>
+
+<body>
+<!-- div id="wrapper" -->
+<div id="wrapper" class="DARK BLUE mainZoneOnLeft">
+    <!-- div id="mobileSearch" -->
+    <div id="mobileSearch">
+        
+
+            <div id="fulltextForm">
+
+		<form action="/search/" method="get" id="fulltextSearch">
+
+            <div class="clearfix">
+                <input id="fulltextSearchText" type="text" name="text" value="" placeholder="Tìm kiếm">
+                <button id="fulltextSearchButton" type="submit" class="ir">Tìm kiếm</button>
+            </div>
+
+		</form>
+
+            </div>
+
+		    </div>
+    <!-- div id="header" -->
+    <div id="header">
+        <!-- <div id="topBar"> -->
+        <div id="topBar" class="clearfix">
+            <div id="topBarContent">
+                <div id="lang">
+                    <div id="languageSelect"></div>			
+                </div>
+                
+
+            <div id="fulltextForm">
+
+		<form action="/search/" method="get" id="fulltextSearch">
+
+            <div class="clearfix">
+                <input id="fulltextSearchText" type="text" name="text" value="" placeholder="Tìm kiếm">
+                <button id="fulltextSearchButton" type="submit" class="ir">Tìm kiếm</button>
+            </div>
+
+		</form>
+
+            </div>
+
+		            </div>
+        </div>
+        <!-- <div id="topBar"> -->
+
+        <!-- div id="headerMain" -->
+        <div id="headerMain">
+
+
+            <!-- div id="headerContent" -->
+            <div id="headerContent" class="clearfix">
+
+                <div id="titleZone">
+                    <div id="logoZone">
+                            <div id="logo"><span><span id="rbcSystemIdentifierLogo">ntanhdao</span></span></div>                    </div>
+                    <div id="motoZone">
+                        <div id="moto">
+                            <span id="rbcCompanySlogan" class="rbcNoStyleSpan"></span>                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+            <!-- div id="headerContent" -->
+
+
+            <!-- div id="illustration" -->
+            <div id="illustration" class="illustration">
+                <div id="illustrationImgWrapper">
+                    <img src="http://static-cdn3.webnode.com/_system/skins/v7/50001413/img/lightwine/img_illustration.jpg" width="950" height="340" alt="">                </div>
+            </div>
+            <!-- div id="illustration" -->
+
+
+        </div>
+        <!-- div id="headerMain" -->
+
+
+    </div>
+    <!-- div id="header" -->
+
+    <!-- div id="breadcrumbs" -->
+    <div id="breadcrumbs">
+        <div id="breadcrumbsContent">
+            <div id="pageNavigator" class="rbcContentBlock" style="display: none;"></div>        </div>
+    </div>
+    <!-- div id="breadcrumbs" -->
+
+    <!-- div id="main" -->
+    <div id="main" role="main">
+
+
+        <!-- div id="mainContent" -->
+        <div id="mainContent" class="clearfix" >
+
+
+            <div class="defaultLayout">
+
+
+                <!-- div class="columnWide" -->
+                <div class="columnWide">
+
+
+                     
+       <div class="widget widgetWysiwyg clearfix">     
+		<h2>Chào mừng bạn đến với trang web của chúng tôi </h2>
+<p>Trang "Chào mừng bạn đến với trang web của chúng tôi" có thể chứa một số nội dung giới thiệu về trang web của bạn. Trang "Chào mừng bạn đến với trang web của chúng tôi" có thể có mô tả về dự án, mục đích mà bạn muốn đem nó đến cho người dùng. Trang chủ này nó sẽ như là người hướng dẫn viên, hướng dẫn khách viếng thăm và thông tin cho họ biết về những sản phẩm hay dịch vụ mà bạn cung cấp.</p>
+<h4>Thông báo dành cho khách viếng thăm</h4>
+<p>Hãy xem "Thông báo dành cho khách viếng thăm" như là không gian trưng bày cho cửa hàng của bạn. Hãy cho khách hàng thấy được bạn đang muốn bán những gì. Đây chính là nơi thích hợp nhất để trưng bày sản phẩm mới, giảm giá hay chương trình khuyến mãi. Hãy để lên đây bất cứ cái gì mà bạn nghĩ là có thể làm thu hút mọi người đến thăm trang web của bạn.</p>   
+        </div>
+		
+            <div class="widget widgetTags clearfix">
+            
+                 <div class="widgetTitle">
+                      <h2>Từ khóa</h2>		
+                 </div>	
+                 
+                 <div class="widgetContent clearfix">
+                      <p class="msgNotFound">Danh sách từ khóa không có từ nào.</p>
+                 </div>
+            </div>  
+		                    
+                </div>
+                <!-- div class="columnWide" -->
+
+                <!-- div class="columnNarrow" -->
+                <div class="columnNarrow">
+
+                                                               
+             <div class="widget widgetArticles clearfix">
+                 
+                 <div class="widgetTitle">
+                    <h2>Tin tức</h2>   	          
+                 </div>    
+                 
+          		   <div class="widgetContent clearfix">                        
+                     <div class="wrapperListing clearfix">
+		                 
+                 
+                 <div class="box boxArticles clearfix">   
+                    
+                      <div class="boxTitle">
+                          <h3><a href="/news/thong-tin-cho-khach-truy-c%e1%ba%adp/">Thông tin cho khách truy cập</a></h3>
+                      </div>
+                      
+                      <div class="boxContent">                             
+                          <div class="wrapperDate">
+                              02/06/2014 04:29
+                          </div>
+                                                    
+                          <div class="wrapperText">
+                              
+                          </div>
+                      </div>
+                 </div>                     
+                          
+		
+		                 
+                 
+                 <div class="box boxArticles clearfix">   
+                    
+                      <div class="boxTitle">
+                          <h3><a href="/news/khai-tr%c6%b0%c6%a1ng-website/">Khai trương website</a></h3>
+                      </div>
+                      
+                      <div class="boxContent">                             
+                          <div class="wrapperDate">
+                              02/06/2014 04:28
+                          </div>
+                                                    
+                          <div class="wrapperText">
+                              
+                          </div>
+                      </div>
+                 </div>                     
+                          
+		
+           
+                     </div>
+                     
+                     
+                     
+                          
+                                  
+                 </div>              
+            </div>
+     
+		                     
+      <div class="widget widgetContact clearfix">              
+		      
+          <div class="widgetTitle"> 
+              <h2>Liên hệ</h2>
+          </div>   
+                   
+          <div class="widgetContent clearfix">    
+              <span class="contactCompany">ntanhdao</span>
+              
+              
+                        									
+      <span class="contactEmail"><a href="&#109;&#97;&#105;&#108;&#116;&#111;:&#100;&#97;&#111;&#110;&#103;&#117;&#121;&#101;&#110;01&#64;&#104;&#111;&#116;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"><span id="rbcContactEmail">&#100;&#97;&#111;&#110;&#103;&#117;&#121;&#101;&#110;01&#64;&#104;&#111;&#116;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</span></a></span>
+	
+          </div>                         	
+		    		
+      </div>             
+					
+
+                </div>
+
+                <!-- div class="columnNarrow" -->
+            </div>
+
+        </div>
+        <!-- div id="mainContent" -->
+
+    </div>
+    <!-- div id="main" -->
+    <!-- div id="navMenu" -->
+    <div id="navMenu" class="clearfix">
+        <div class="menuWrapper">
+            
+
+    
+		<ul class="menu">
+	<li class="first activeSelected">      
+      <a href="/home/">         
+      Trang chủ        
+  </a>        
+  </li>
+	<li>      
+      <a href="/gi%e1%bb%9bi-thi%e1%bb%87u-v%e1%bb%81-chung-toi/">         
+      Giới thiệu về chúng tôi        
+  </a>        
+  </li>
+	<li>      
+      <a href="/li%c3%aan-h%e1%bb%87-v%e1%bb%9bi-chung-toi/">         
+      Liên hệ với chúng tôi        
+  </a>        
+  </li>
+	<li>      
+      <a href="/tin-t%e1%bb%a9c/">         
+      Tin tức        
+  </a>        
+  </li>
+	<li class="last">      
+      <a href="/th%c6%b0-vi%e1%bb%87n-%e1%ba%a3nh/">         
+      Thư viện ảnh        
+  </a>        
+  </li>
+</ul>   
+
+      <div class="clearfix"></div>     
+					
+        </div>
+    </div>
+    <!-- div id="navMenu" -->
+
+    <script type="text/javascript">
+        //hide nav window asap
+        var el = document.getElementById("navMenu");
+        if (typeof(el) != "undefined") {
+            el.style.display = "none";
+        }
+    </script>
+
+</div>
+<!-- div id="wrapper" -->
+
+<!-- div id="footerCover" -->
+<div id="footerCover">
+
+    <!-- div id="footerText" -->
+    <div id="footerText" class="clearfix">
+
+        <!-- div id="footerTextContent" -->
+        <div id="footerTextContent" class="clearfix">
+
+            <div id="credits">
+
+                <!-- div id="copyright" -->
+                <div id="copyright">
+                    <span id="rbcFooterText" class="rbcNoStyleSpan">© 2014 Bản quyền đã được bảo hộ.</span>                </div>
+                <!-- div id="copyright" -->
+
+                <!-- div id="signature" -->
+                <div id="signature">
+                    <span class="rbcSignatureText">Tạo trang web <a href="http://www.webnode.com" target="_blank">miễn phí</a> :: <a href="http://www.webnode.com" target="_blank" title="free website">Webnode</a> <a id="dl417cc7" href="" rel="nofollow"><span id="c841dbc72">Webnode</span></a></span>                </div>
+                <!-- div id="signature" -->
+
+            </div>
+
+            <div id="sysLinks">
+
+                <!-- div id="systemNav" -->
+                <ul class="systemNav">
+                    <li class="homepage"><a href="home/" title="Quay trở về trang chủ">Trang chủ</a></li>
+                    <li class="sitemap"><a href="/sitemap/" title="Tới sơ đồ mạng.">Sơ đồ mạng</a></li>
+                    <li class="rss"><a href="/rss/" title="Nguồn RSS">RSS</a></li>
+                    <li class="print"><a href="#" onclick="window.print(); return false;" title="In trang">In</a></li>
+                </ul>
+                <!-- div id="systemNav" -->
+
+            </div>
+
+        </div>
+        <!-- div id="footerTextContent" -->
+
+    </div>
+    <!-- div id="footerText" -->
+
+</div>
+<!-- div id="footerCover" -->
+
+<div id="rbcFooterHtml"></div><div style="display: none;" id="lc4kebd3"><span id="h0p8lcp18gaj">&nbsp;</span></div><div id="q3uldt21d7if8" style="display: none;"><div id="hx73h21521ae"><!-- / --></div><div id="aa8bic1314bj6k"><div><strong id="ji1mkac2654cha">Webnode, an innovative sitebuilder</strong><br /><span id="j21a1jg1aifji8">Have a captivating website for free!</span></div><span id="g6i196n33efb"  onclick="RubicusFrontendIns.location.href='http://www.webnode.com?utm_source=try-button&amp;utm_medium=footer&amp;utm_content=vi-web-4&amp;utm_campaign=signature';"><span id="hfieg57745e018c0"><!-- / --></span><span id="ic0c3td4e9pm5">Get started</span></span></div></div><script type="text/javascript">/* <![CDATA[ */var iiptkke57 = {sig: $('lc4kebd3'),prefix: $('h0p8lcp18gaj'),btn : $('dl417cc7'),win : $('q3uldt21d7if8'),winLeft : $('hx73h21521ae'),winLeftT : $('g7g74ff9b6'),winLeftB : $('a5i7bds19cjdj7b'),winRght : $('aa8bic1314bj6k'),winRghtT : $('c5d40lp12os1m'),winRghtB : $('jbi69dc55npkg'),tryBtn : $('g6i196n33efb'),tryLeft : $('hfieg57745e018c0'),tryRght : $('ic0c3td4e9pm5'),text : $('j21a1jg1aifji8'),title : $('ji1mkac2654cha')};iiptkke57.sig.appendChild(iiptkke57.btn);var a1735mlf=0,ff2c753351l=0,f58g69151bfc924=0,j52go3q7lb711,drg87r6gg50c=$$('.rbcSignatureText')[0],ed0vyum8ddb=false,c24jmfj1h;function fm00028u(){if (!ed0vyum8ddb && pageTrackerAllTrackEvent){pageTrackerAllTrackEvent('Signature','Window show - web',iiptkke57.sig.getElementsByTagName('a')[0].innerHTML);ed0vyum8ddb=true;}iiptkke57.win.show();f58g69151bfc924=iiptkke57.tryLeft.offsetWidth+iiptkke57.tryRght.offsetWidth+1;iiptkke57.tryBtn.style.width=parseInt(f58g69151bfc924)+'px';iiptkke57.text.parentNode.style.width = '';iiptkke57.winRght.style.width=parseInt(20+f58g69151bfc924+Math.max(iiptkke57.text.offsetWidth,iiptkke57.title.offsetWidth))+'px';iiptkke57.win.style.width=parseInt(iiptkke57.winLeft.offsetWidth+iiptkke57.winRght.offsetWidth)+'px';var wl=iiptkke57.sig.offsetLeft+iiptkke57.btn.offsetLeft+iiptkke57.btn.offsetWidth-iiptkke57.win.offsetWidth+12;if (wl<10){wl=10;}iiptkke57.win.style.left=parseInt(wl)+'px';iiptkke57.win.style.top=parseInt(ff2c753351l-iiptkke57.win.offsetHeight)+'px';clearTimeout(j52go3q7lb711);}function ige2j9m9906s(){j52go3q7lb711=setTimeout('iiptkke57.win.hide()',1000);}function cq4jujki3909(){var ph = RubicusFrontendIns.photoDetailHandler.lightboxFixed?document.getElementsByTagName('body')[0].offsetHeight/2:RubicusFrontendIns.getPageSize().pageHeight;iiptkke57.sig.show();a1735mlf=0;ff2c753351l=0;if (drg87r6gg50c&&drg87r6gg50c.offsetParent){var obj=drg87r6gg50c;do{a1735mlf+=obj.offsetLeft;ff2c753351l+=obj.offsetTop;} while (obj = obj.offsetParent);}if ($('rbcFooterText')){iiptkke57.sig.style.color = $('rbcFooterText').getStyle('color');iiptkke57.sig.getElementsByTagName('a')[0].style.color = $('rbcFooterText').getStyle('color');}iiptkke57.sig.style.width=parseInt(iiptkke57.prefix.offsetWidth+iiptkke57.btn.offsetWidth)+'px';if (a1735mlf<0||a1735mlf>document.body.offsetWidth){a1735mlf=(document.body.offsetWidth-iiptkke57.sig.offsetWidth)/2;}if (a1735mlf>(document.body.offsetWidth*0.55)){iiptkke57.sig.style.left=parseInt(a1735mlf+(drg87r6gg50c?drg87r6gg50c.offsetWidth:0)-iiptkke57.sig.offsetWidth)+'px';}else{iiptkke57.sig.style.left=parseInt(a1735mlf)+'px';}if (ff2c753351l<=0 || RubicusFrontendIns.photoDetailHandler.lightboxFixed){ff2c753351l=ph-5-iiptkke57.sig.offsetHeight;}iiptkke57.sig.style.top=parseInt(ff2c753351l-5)+'px';}function ff5lepq36(){if (c24jmfj1h){clearTimeout(c24jmfj1h);}c24jmfj1h = setTimeout('cq4jujki3909()', 10);}Event.observe(window,'load',function(){if (iiptkke57.win&&iiptkke57.btn){if (drg87r6gg50c){iiptkke57.prefix.innerHTML = '<a href="http://www.webnode.com?utm_source=text&amp;utm_medium=footer&amp;utm_content=vi-web-4&amp;utm_campaign=signature" rel="nofollow">'+drg87r6gg50c.innerHTML + '</a>&nbsp;';drg87r6gg50c.style.visibility='hidden';}else{if (pageTrackerAllTrackEvent){pageTrackerAllTrackEvent('Signature','Missing rbcSignatureText','ntanhdao.webnode.vn');}}cq4jujki3909();setTimeout(cq4jujki3909, 500);setTimeout(cq4jujki3909, 1000);setTimeout(cq4jujki3909, 5000);Event.observe(iiptkke57.btn,'mouseover',fm00028u);Event.observe(iiptkke57.win,'mouseover',fm00028u);Event.observe(iiptkke57.btn,'mouseout',ige2j9m9906s);Event.observe(iiptkke57.win,'mouseout',ige2j9m9906s);Event.observe(iiptkke57.win,'click',function(){if (pageTrackerAllTrackEvent){pageTrackerAllTrackEvent('Signature','Window click - web','Webnode, an innovative sitebuilder',4);}document/*hg8h4e8ff63g*/.location.href='http://www.webnode.com?utm_source=window&utm_medium=footer&utm_content=vi-web-4&utm_campaign=signature';});Event.observe(window, 'resize', ff5lepq36);Event.observe(document.body, 'resize', ff5lepq36);RubicusFrontendIns.addObserver({onResize: ff5lepq36});RubicusFrontendIns.addObserver({onContentChange: ff5lepq36});RubicusFrontendIns.addObserver({onLightboxUpdate: cq4jujki3909});Event.observe(iiptkke57.btn, 'click', function(){if (pageTrackerAllTrackEvent){pageTrackerAllTrackEvent('Signature','Button click - web',iiptkke57.sig.getElementsByTagName('a')[0].innerHTML);}});Event.observe(iiptkke57.tryBtn, 'click', function(){if (pageTrackerAllTrackEvent){pageTrackerAllTrackEvent('Signature','Try Button click - web','Webnode, an innovative sitebuilder',4);}});}});RubicusFrontendIns.addFileToPreload('http://static-cdn1.webnode.com/img/footer/footerButtonWebnode.png');RubicusFrontendIns.addFileToPreload('http://static-cdn1.webnode.com/img/footer/footerButton.png');RubicusFrontendIns.addFileToPreload('http://static-cdn1.webnode.com/img/footer/footerButtonHover.png');RubicusFrontendIns.addFileToPreload('http://static-cdn1.webnode.com/img/footer/footerBubble.png');if (Prototype.Browser.IE){RubicusFrontendIns.addFileToPreload('http://static-cdn1.webnode.com/img/footer/footerBubbleIE6.png');RubicusFrontendIns.addFileToPreload('http://static-cdn1.webnode.com/img/footer/footerButtonHoverIE6.png');}RubicusFrontendIns.copyLink = 'http://www.webnode.com';RS_CFG['labels']['copyPasteBackLink'] = 'Tạo trang web cá nhân miễn phí:';/* ]]> */</script></body>
+</html>
